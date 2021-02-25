@@ -468,7 +468,7 @@ Summary of Model, for additional clarity:
 
 *Figure 4* demonstrating influential points
 
-![Figure 4](img/model%20plot-1.png)<!-- -->
+![Figure 4](img/model-plot-1.png)<!-- -->
 
 ### Appendix C
 
