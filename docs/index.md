@@ -1,7 +1,7 @@
-Health in Numbers: A Logistic Model of Herd Immunity for the DTP and MMR
-Vaccines in Toronto Schools
-================
-Paul Hodgetts, Thomas Rosenthal, and Qi Wen
+# Health in Numbers: A Logistic Model of Herd Immunity for the DTP and MMR Vaccines in Toronto Schools
+
+Paul Hodgetts(https://github.com/hodgettsp), [Thomas Rosenthal](https://github.com/mrpotatocode) & [Qi Wen](https://www.linkedin.com/in/qi-wen-b41953186/)
+
 March 1, 2020
 
 ## Introduction
@@ -201,7 +201,7 @@ represents the conservative recommendation for herd immunity: 94% for
 DTP and 95% for MMR respectively. Only a small percentage of schools
 reached herd immunity levels.
 
-![](Analysis_files/figure-gfm/densityplot-1.png)<!-- -->
+![Figure 1](imgs/densityplot-1.png)<!-- -->
 
 *Figure 1*
 
@@ -282,7 +282,7 @@ immunity is demonstrated in *Figure 2* below.
 
 *Table 4*
 
-![](Analysis_files/figure-gfm/fig2-1.png)<!-- -->
+![Figure 2](imgs/fig2-1.png)<!-- -->
 
 *Figure 2*
 
@@ -317,7 +317,7 @@ exemption rate had a value slightly larger than 5 (*Table 5*) but was
 still acceptable. Thus, the fourth assumption was satisfied by our
 model.
 
-![](Analysis_files/figure-gfm/fig3-1.png)<!-- -->
+![Figure 3](imgs/fig3-1.png)<!-- -->
 
 *Figure 3*
 
@@ -468,7 +468,7 @@ Summary of Model, for additional clarity:
 
 *Figure 4* demonstrating influential points
 
-![](Analysis_files/figure-gfm/model%20plot-1.png)<!-- -->
+![Figure 4](img/model%20plot-1.png)<!-- -->
 
 ### Appendix C
 
