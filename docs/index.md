@@ -1,6 +1,6 @@
 # Health in Numbers: A Logistic Model of Herd Immunity for the DTP and MMR Vaccines in Toronto Schools
 
-Paul Hodgetts(https://github.com/hodgettsp), [Thomas Rosenthal](https://github.com/mrpotatocode) & [Qi Wen](https://www.linkedin.com/in/qi-wen-b41953186/)
+[Paul Hodgetts](https://github.com/hodgettsp), [Thomas Rosenthal](https://github.com/mrpotatocode) & [Qi Wen](https://www.linkedin.com/in/qi-wen-b41953186/)
 
 March 1, 2020
 
