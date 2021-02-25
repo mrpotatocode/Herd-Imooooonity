@@ -4,6 +4,8 @@ title: 'Health in Numbers: A Logistic Model of Herd Immunity for the DTP and MMR
 author: "Paul Hodgetts, Thomas Rosenthal, and Qi Wen"
 date: "March 1, 2020"
 output:
+  github_document:
+    html_preview: false
   pdf_document:
     latex_engine: xelatex
   word_document: default
