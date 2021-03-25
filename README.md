@@ -1,4 +1,4 @@
-# Herd-Imooooonity
+# Health in Numbers
 
 This was Part 3 of Experimental Design coursework and intended to be an continuation of regression/classification techniques alongside traditional train-test data splits to form predictions using open data sets to learn data science concepts. 
 
